@@ -1,0 +1,193 @@
+body{
+    background-image:url(imagenes/fondo.jpg);
+    width: 70%;
+    margin: 40px auto;
+    padding: 10px;
+    border-style: dotted;
+
+}
+#Cabezera{
+    border-bottom: 2px solid black;
+}
+#Caja-top{
+    margin: 10px;
+    padding: 5px;
+    display: flex;
+}
+#ISILIMAGE{
+    border-radius: 50%;
+}
+#TITULOUNO {
+    display: flex;
+    margin-left: auto;
+    align-items: center; 
+}
+#DESARROLLADOR{
+    text-align: right;
+}
+#RESALTADO{
+    background-color: white;
+}
+.SUBTITULOS{
+    text-decoration: underline;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Caja-Padre{
+    border: 5px solid ;
+    padding: 15px;
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.Caja-01,.Caja-02,.Caja-03{
+    width: 250px;
+
+    height: auto;
+    border: 1px solid ;
+    margin: 1px;
+    box-sizing: border-box;
+    text-align: left;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(248, 246, 217);
+
+
+}
+.RESALTADO{
+    background-color: yellow;
+}
+#FONDO1{
+    background-color: orangered;
+    text-align: center;
+    color: white ;
+    margin-top: 0%;
+    padding: 0%;
+    margin: 0%;
+    height: 50px;
+    
+}
+#FONDO2{
+    background-color: rgb(13, 100, 180);
+    text-align: center;
+    color: white ;
+    margin-top: 0%;
+    padding: 0%;
+    margin: 0%;
+    height: 50px;
+    
+}
+#FONDO3{
+    background-color: rgb(96, 161, 43);
+    text-align: center;
+    color: white ;
+    margin-top: 0%;
+    padding: 0%;
+    margin: 0%;
+    height: 50px;
+    
+}
+.IMAGENES{
+    height:150px ;
+    width: 130px; 
+    max-width: 350px;
+    margin: 5px;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    margin-top: 0px;
+}
+#CAJA-PADRE02{
+    border: 5px solid ;
+    padding: 15px;
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+#Caja-04,#Caja-05,#Caja-06{
+    width: 30%;
+    min-width: 250px;
+    height: aut;
+    border: 1px solid ;
+    margin: 1px;
+    box-sizing: border-box;
+    text-align: left;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(248, 246, 217);
+
+
+}
+#FONDO4{
+    background-color: orangered;
+    text-align: center;
+    color: white ;
+    margin-top: 0%;
+    padding: 0%;
+    margin: 0%;
+    height: 50px;
+    
+}
+#FONDO5{
+    background-color: rgb(13, 100, 180);
+    text-align: center;
+    color: white ;
+    margin-top: 0%;
+    padding: 0%;
+    margin: 0%;
+    height: 50px;
+    
+}
+#FONDO6{
+    background-color: rgb(96, 161, 43);
+    text-align: center;
+    color: white ;
+    margin-top: 0%;
+    padding: 0%;
+    margin: 0%;
+    height: 50px;
+    
+}
+#Caja-imagebot{
+    margin: auto;
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+#Cajaline{
+    margin: auto;
+    width: auto;
+    border-bottom: 5px solid;
+}
+#Caja-imagebot img{
+    box-shadow: 15px 10px 3px lightslategray;
+}
+
+
+#MINIBOX{
+    text-align: center;
+    margin: auto;
+    width: auto;
+    border-radius: 5px;
+    background-color: white;
+    border: 2px solid;
+    border-style: groove;
+    box-shadow: 5px 5px 5px lightslategray;
+}
+
+
+
+
+
+
+
